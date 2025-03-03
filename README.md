@@ -3,7 +3,7 @@ Proyek ini bertujuan untuk menganalisis tren penjualan, distribusi pelanggan, se
 
 ## Data yang Digunakan
 - File CSV berisi data transaksi pelanggan, termasuk kategori produk, jumlah unit terjual, total penjualan, lokasi pelanggan, dan waktu transaksi. 
-- Hasil berupa dashboard interaktif dalam bentuk PDF yang menampilkan visualisasi utama, seperti tren penjualan, distribusi pelanggan, dan performa kategori produk.
+- Hasil berupa dashboard interaktif menggunakan looker studio dalam bentuk PDF yang menampilkan visualisasi utama, seperti tren penjualan, distribusi pelanggan, dan performa kategori produk.
   
 ## Tujuan Proyek
 Mengidentifikasi tren penjualan berdasarkan waktu untuk melihat pola penurunan atau kenaikan penjualan.
